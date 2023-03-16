@@ -492,7 +492,7 @@ footer {
   .Third-section {
     display: flex;
     gap: 50px;
-    padding: 80px 10% 70px;
+    padding: 60px 10% 50px;
   }
 
 
@@ -520,8 +520,8 @@ footer {
     display: flex;
     gap: 30px;
     padding: 140px 10% 300px;
-    background-size: 50px;
-    background-position: 138px 110px;
+    background-size: 65px;
+    background-position: 155px 89px;
 
   }
 
