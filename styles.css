@@ -492,19 +492,21 @@ footer {
   .Third-section {
     display: flex;
     gap: 50px;
-    padding: 40px 15% 30px;
+    padding: 80px 10% 70px;
   }
 
-  .third-section-box-image>img {
-    width: 90%;
+
+  .third-section-box-image > img {
+    width: 100%;
   }
 
   .third-section-text {
+    width: 44%;
     align-self: center;
   }
 
   .third-section-text>p {
-    padding-right: 10%;
+    padding-right: 0%;
     line-height: 1.5rem;
   }
 
