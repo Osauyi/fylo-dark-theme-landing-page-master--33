@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/Osauyi/fylo-dark-theme-landing-page-master--33.git]
+- Live Site URL: [https://osauyi.github.io/fylo-dark-theme-landing-page-master--33/]
 
 ## My process
 
